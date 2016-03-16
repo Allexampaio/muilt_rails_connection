@@ -1,0 +1,16 @@
+Wed, 16 Mar 2016 15:38:15 -0300
+README.rdoc	Wed, 16 Mar 2016 15:25:45 -0300
+app/controllers/application_controller.rb	Wed, 16 Mar 2016 14:30:54 -0300
+app/controllers/articles_controller.rb	Wed, 16 Mar 2016 13:27:25 -0300
+app/controllers/pages_controller.rb	Wed, 16 Mar 2016 14:25:15 -0300
+app/controllers/posts_controller.rb	Wed, 16 Mar 2016 13:27:25 -0300
+app/helpers/application_helper.rb	Wed, 16 Mar 2016 13:27:25 -0300
+app/helpers/articles_helper.rb	Wed, 16 Mar 2016 13:27:25 -0300
+app/helpers/error_messages_helper.rb	Wed, 16 Mar 2016 14:24:53 -0300
+app/helpers/layout_helper.rb	Wed, 16 Mar 2016 14:24:53 -0300
+app/helpers/pages_helper.rb	Wed, 16 Mar 2016 14:25:15 -0300
+app/helpers/posts_helper.rb	Wed, 16 Mar 2016 13:27:25 -0300
+app/models/article.rb	Wed, 16 Mar 2016 14:36:43 -0300
+app/models/post.rb	Wed, 16 Mar 2016 14:53:33 -0300
+lib/articleDB.rb	Wed, 16 Mar 2016 15:04:27 -0300
+lib/postDB.rb	Wed, 16 Mar 2016 14:43:56 -0300
