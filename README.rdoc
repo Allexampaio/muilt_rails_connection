@@ -1,0 +1,27 @@
+== README
+
+Rails multi Conection Databases
+
+Things you may want to cover:
+
+> SYSTEM DEPENDENCIES
+
+* -> magic_multi_connections
+
+> LIB
+* -> /tasks/db.rake
+* -> articleDB
+
+> PRIVATE_DATABASE
+* -> /migrate
+* -> schema.rb
+
+> CONFIG
+* -> environment.rb
+* -> database.yml.rb
+* -> private_database.yml.rb
+
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.

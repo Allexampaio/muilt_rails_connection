@@ -1,0 +1,26 @@
+development:
+  database: blog
+  username: root
+  password: root
+  adapter: mysql2
+  encoding: utf8
+  collation: utf8_unicode_ci
+  host: localhost
+
+production:
+  database: blog_production
+  username: root
+  password: root
+  adapter: mysql2
+  encoding: utf8
+  collation: utf8_unicode_ci
+  host: localhost
+
+development_private:
+  database: articles
+  username: root
+  password: root
+  adapter: mysql2
+  encoding: utf8
+  collation: utf8_unicode_ci
+  host: localhost
